@@ -2,7 +2,7 @@
 
 A student loving the journey of exploring new technologies.
 
-Currently learning Rust :crab: and having a hard, but fun time :laughing:
+Currently learning Go := and having a fun time :laughing:
 
 Fun facts:
 
