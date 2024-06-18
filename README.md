@@ -2,7 +2,7 @@
 
 A student loving the journey of exploring new technologies.
 
-Currently learning IOS Development and Swift :laughing:
+Currently learning IOS Development and Swift
 
 Fun facts:
 
