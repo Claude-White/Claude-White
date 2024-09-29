@@ -2,7 +2,7 @@
 
 A student loving the journey of exploring new technologies.
 
-Currently learning IOS Development and Swift
+Currently learning Svelte and SvelteKit
 
 Fun facts:
 
