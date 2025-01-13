@@ -2,7 +2,7 @@
 
 A student loving the journey of exploring new technologies.
 
-Currently learning Svelte and SvelteKit
+Currently learning Go :=
 
 Fun facts:
 
