@@ -2,7 +2,7 @@
 
 A student loving the journey of exploring new technologies.
 
-Currently learning Go :=
+Currently learning Swift
 
 Fun facts:
 
